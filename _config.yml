@@ -5,11 +5,24 @@
 #
 
 # no trailing slash
-# url: https://point-theme.netlify.app
+url: anishkasam.github.io/portfolio
 
 # for header and meta tags
 title: Hi, I'm Anish!
-description: description for search engines and social media cards
+description: website showcasing my work
+
+# set external to true if linking outside your website
+# for internal, make sure to include preceding slash
+nav-links:
+  - name: Home
+    url: /
+    external: false
+  - name: Blog
+    url: /blog
+    external: false
+  - name: Search Engine
+    url: https://duckduckgo.com
+    external: true
 
 # for the homepage image + big text next to it
 greeting_image: /assets/me.png
