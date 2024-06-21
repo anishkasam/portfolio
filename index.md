@@ -1,29 +1,40 @@
 ---
 ---
 
-## 🤷 What I do
+## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I'm a third-year undergraduate student at [UC San Diego](https://ucsd.edu/) pursuing a double major in data science and math-computer science. I'm broadly interested in probability theory, optimization, and computer vision.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm currently a data science intern at [Qualcomm Institute](https://qi.ucsd.edu/) where I'm working on various projects applying machine learning to medicine, advised by [Dr. Ganz Chockalingam](https://pdel.ucsd.edu/people/research-affiliates/ganz-chockalingam.html). I'm also a research assistant at the [de Sa Lab](https://pages.ucsd.edu/~desa/index.html), where I work on facial expression recognition projects, advised by [Professor Virginia de Sa](https://cogsci.ucsd.edu/people/faculty/virginia-de-sa.html).
 
-## 🦕 What I've done before
+I have also served as a teaching assistant for multiple courses within the [Halicioglu Data Science Institute](https://datascience.ucsd.edu/). I primarily work under [Professor Marina Langlois](https://datascience.ucsd.edu/people/marina-langlois/). 
 
-Purus non enim praesent elementum facilisis. In aliquam sem fringilla ut. Hac habitasse platea dictumst vestibulum rhoncus est. Ut porttitor leo a diam sollicitudin.
+## Research
 
-Amet commodo nulla facilisi nullam vehicula ipsum a arcu. Venenatis urna cursus eget nunc. Dui accumsan sit amet nulla facilisi morbi tempus. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Sem viverra aliquet eget sit amet tellus cras.
+<u>Applications of Convolutional Neural Networks in Chest X-Ray Analyses for the Detection of COVID-19</u>. Patrick Ting, Anish Kasam, Kevin Lan. *Annals of Biomedical Science and Engineering*.\\
+[paper](https://www.biomedscijournal.com/articles/abse-aid1015.php) | [code](https://github.com/anishkasam/cxr-net)
 
-Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Ipsum faucibus vitae aliquet nec. Ac auctor augue mauris augue neque gravida. Neque egestas congue quisque egestas.
+## Projects
 
-## 👋🏻 Say hi
+__Probability & Statistics for ML__: Utilized Svelte and D3.js to create explorable visualizations of fundamental probability and statistics concepts.\\
+[under construction](https://github.com/anishkasam)
 
-Wanna chat? Feel free to reach out!
+__Blackjack Hit Charts__: Wrote a program in Python that generates optimal strategy charts based on game rules using a Monte Carlo simulation.\\
+[under construction](https://github.com/anishkasam)
 
-- Source code: [@katmh/point-theme](http://github.com/katmh/point-theme)
-- [Issues](https://github.com/katmh/point-theme/issues)
+__French or Spanish__: Implemented a Bernoulli Naive Bayes classifier from scratch in NumPy that differentiates between Spanish and French words, achieved 90% accuracy.\\
+[under construction](https://github.com/anishkasam)
 
-## 📠 Fun facts
+__Spotify Stats Tracker__: Deployed a web application using React and the Spotify API that recommends songs and displays users' favorite artists, tracks, and genres.\\
+[website](https://spotify-stats-tracker.netlify.app/) | [code](https://github.com/anishkasam/spotify-stats-tracker)
 
-- You can customize link colors, container width, and fonts in `styles/styles.scss`
-- This theme has built-in options for 2 different date formats: "November 12, 2018" and "Nov '18"
-- Be sure to look through the config file to change the site title, description, homepage greeting, and more
+__Epileptic Seizure Prediction__: Built a SVM classifier that detected seizure activity from patients' EEG readings with Scikit-learn, surpassed 94% accuracy.\\
+[website](https://garrett-lam.github.io/DS3-Epileptic-Seizure-Prediction/) | [code](https://github.com/anishkasam/epileptic-seizure-prediction)
+
+__Fantasy Football__: Derived linear regression models of players' fantasy performance based on matchup difficulty using Pandas and NumPy.\\
+[article](https://towardsdatascience.com/fantasy-football-data-analysis-with-python-b3c017d0d3b5) | [code](https://github.com/anishkasam/fantasy-football)
+
+## Teaching
+
+__DSC 20: Programming and Data Structures for Data Science__\\
+Fall 2023 | Winter 2024 | Spring 2024
