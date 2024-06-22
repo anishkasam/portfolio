@@ -19,7 +19,8 @@ I have also served as a teaching assistant for multiple courses within the [Hali
 __Probability & Statistics for ML__: Utilized Svelte and D3.js to create explorable visualizations of fundamental probability and statistics concepts.\\
 [website](https://anishkasam.github.io/probability-for-ml/) | [code](https://github.com/anishkasam/probability-for-ml)
 
-__French or Spanish__: Implemented a Bernoulli Naive Bayes classifier from scratch in NumPy that differentiates between Spanish and French words, achieved 80% accuracy.\\[code](https://github.com/anishkasam/french-or-spanish)
+__French or Spanish__: Implemented a Bernoulli Naive Bayes classifier from scratch in NumPy that differentiates between Spanish and French words, achieved 80% accuracy.\\
+[code](https://github.com/anishkasam/french-or-spanish)
 
 __Spotify Stats Tracker__: Deployed a web application using React and the Spotify API that recommends songs and displays users' favorite artists, tracks, and genres.\\
 [website](https://spotify-stats-tracker.netlify.app/) | [code](https://github.com/anishkasam/spotify-stats-tracker)
