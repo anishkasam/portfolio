@@ -34,4 +34,7 @@ __Fantasy Football__: Derived linear regression models of players' fantasy perfo
 ## Teaching
 
 __DSC 20: Programming and Data Structures for Data Science__\\
-Fall 2023 | Winter 2024 | Spring 2024 | Summer 2024
+Fall 2023 | Winter 2024 | Spring 2024 | Summer 2024 | Fall 2024
+
+__DSC 30: Data Structures and Algorithms for Data Science__\\
+Summer 2024 | Fall 2024
