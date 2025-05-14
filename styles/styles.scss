@@ -111,11 +111,14 @@ img {
   height: 7rem;
   border-radius: 4rem;
   margin-right: 1.5rem;
+  margin-top: 10px;
 }
 
 // homepage greeting component
 .greeting-container {
   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .greeting-container h1 {
