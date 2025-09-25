@@ -14,7 +14,7 @@ This is probably my favorite class that I've taken at UCSD. You'll learn a lot o
 
 **CSE 100 + 101 or DSC 190: Advanced Algorithms**
 
-I personally took CSE 100 + 101, but they both have a ton of prerequisites. If you're a data science major, it's probably better to just take DSC 190. These classes will cover a lot of the more advanced algorithms and data structures that sometimes show up during online assessments and technical interviews, such as dynamic programming, disjoint sets, greedy algorithms, etc. You'll also learn about balanced binary trees and optimized techniques for hashing which are often implemented under the hood in many languages. It's useful to know and also pretty interesting in my opinion.
+I personally took CSE 100 + 101, but they both have a ton of prerequisites. If you're a data science major, it's probably better to just take DSC 190. These classes will cover a lot of the more advanced algorithms and data structures that sometimes show up during online assessments and technical interviews, such as dynamic programming, disjoint set forests, greedy algorithms, etc. You'll also learn about balanced binary trees and optimized techniques for hashing which are often implemented under the hood in many languages. It's useful to know and also pretty interesting in my opinion.
 
 **MATH 180A + 181A + 181B**
 

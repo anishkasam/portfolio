@@ -1,9 +1,3 @@
-#
-#
-# things you probably want to change
-#
-#
-
 # no trailing slash
 url: https://anishkasam.github.io/portfolio
 
@@ -17,14 +11,14 @@ nav-links:
   - name: Home
     url: /
     external: false
-  - name: Blog
-    url: /blog
+  - name: Thoughts
+    url: /thoughts
     external: false
 
 # for the homepage image + big text next to it
 greeting_image: assets/me.png
 # 100-200 characters recommended
-greeting_text: Hi, I'm Anish! I'm a junior @ UC San Diego and an SDE Intern @ Amazon.
+greeting_text: Hi, I'm Anish! I'm a senior @ UC San Diego and I'll be starting as a Software Engineer @ Databricks in July!
 
 # show blog post excerpts on blog page
 show_excerpts: false

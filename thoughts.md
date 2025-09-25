@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Thoughts
 ---
 
 {% for post in site.posts %}
