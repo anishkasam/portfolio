@@ -3,13 +3,18 @@
 
 ## About
 
-I'm double majoring in data science and math-computer science. My interests include probability, statistics, and computer vision.
+I'm double majoring in data science and math-computer science. My broad interests include probability, statistics, and computer vision.
 
-I'm currently a data science intern at [Qualcomm Institute](https://qi.ucsd.edu/) where I'm working on various projects applying machine learning to medicine, advised by [Dr. Ganz Chockalingam](https://pdel.ucsd.edu/people/research-affiliates/ganz-chockalingam.html). I have also served as a teaching assistant for multiple courses within the [Halicioglu Data Science Institute](https://datascience.ucsd.edu/), mostly under [Professor Marina Langlois](https://datascience.ucsd.edu/people/marina-langlois/). 
+I'm currently a data science intern at [Qualcomm Institute](https://qi.ucsd.edu/) where I'm working on various projects applying machine learning to medicine, advised by [Dr. Ganz Chockalingam](https://pdel.ucsd.edu/people/research-affiliates/ganz-chockalingam.html). I have also served as a teaching assistant for multiple courses within the [Halicioglu Data Science Institute](https://datascience.ucsd.edu/), mostly under [Marina Langlois](https://datascience.ucsd.edu/people/marina-langlois/). 
 
-In my free time I chase my hoop dreams, conduct freelance probability & statistics research (sports betting), watch historical documentaries, and try out different recipes.
+This past summer, I worked at Amazon as a software development engineer intern on the Alexa Communications device software team.
+
+In my free time I chase my hoop dreams, conduct freelance probability & statistics research (sports betting), watch documentaries, and try making different recipes.
 
 ## Research
+
+<u>Designing and Implementing Skill Tests at Scale: Frequent, Computer-Based, Proctored Assessments with Minimal Infrastructure Requirements</u>. Anastasiya Markova, Anish Kasam, Bryce Hackel, Marina Langlois, Sam Lau. *SIGCSE Technical Symposium on Computer Science Education*\\
+[paper](https://sigcse2026.sigcse.org/details/sigcse-ts-2026-Papers/72/Designing-and-Implementing-Skill-Tests-at-Scale-Frequent-Computer-Based-Proctored-)
 
 <u>Applications of Convolutional Neural Networks in Chest X-Ray Analyses for the Detection of COVID-19</u>. Patrick Ting, Anish Kasam, Kevin Lan. *Annals of Biomedical Science and Engineering*.\\
 [paper](https://www.biomedscijournal.com/articles/abse-aid1015.php) | [code](https://github.com/anishkasam/cxr-net)

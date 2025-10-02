@@ -14,13 +14,13 @@ Beyond that, I was already planning on minoring in math since I wanted to take a
 
 Honestly, probably not; in practice, it doesn't make the most sense. You can always just declare a minor, take the classes for fun, or graduate early. 
 
-I'll touch on this more in [this post](../the-state-of-computing-and-getting-internships), but nowadays the school you go to and your major aren't enough to get you an internship or job. You need to have experience to get an internship, and you need an internship to get a job. If double majoring will take time away from gaining real experience, you definitely shouldn't do it.
+I'll touch on this more in [this post](the-state-of-computing-and-getting-internships), but nowadays the school you go to and your major aren't enough to get you an internship or job. You need to have experience to get an internship, and you need an internship to get a job. If double majoring will take time away from gaining real experience, you definitely shouldn't do it.
 
 At the end of the day, it is your decision, if you do really want to do it, go for it. You can always change your mind later.
 
 **What classes did you take? What classes do you recommend taking?**
 
-Here's my [4 year plan](https://docs.google.com/spreadsheets/d/1njtMhLyiIfFhLa2fFk2amYw7I3wau6KrcMWdz9MLE-U/edit?gid=0#gid=0), along with some [courses I really enjoyed](../class-recommendations).
+Here's my [4 year plan](https://docs.google.com/spreadsheets/d/1njtMhLyiIfFhLa2fFk2amYw7I3wau6KrcMWdz9MLE-U/edit?gid=0#gid=0), along with some [courses I really enjoyed](class-recommendations).
 
 I'd recommend creating your own 4 year plan, and listing out the classes you're interested in. Try to identify which classes you want to overlap, this can change later, but it's a good idea to atleast think about. Also, it's probably best to take all of your general education requirements at a community college to save yourself some time and headache. 
 
