@@ -3,7 +3,7 @@
 
 ## About
 
-I'm double majoring in data science and math-computer science. My broad interests include probability, statistics, and computer vision.
+I'm majoring in data science, with a minor in math. My broad interests include probability, statistics, and computer vision.
 
 I'm currently a data science intern at [Qualcomm Institute](https://qi.ucsd.edu/) where I'm working on various projects applying machine learning to medicine, advised by [Dr. Ganz Chockalingam](https://pdel.ucsd.edu/people/research-affiliates/ganz-chockalingam.html). I have also served as a teaching assistant for multiple courses within the [Halicioglu Data Science Institute](https://datascience.ucsd.edu/), mostly under [Marina Langlois](https://datascience.ucsd.edu/people/marina-langlois/). 
 

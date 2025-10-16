@@ -2,6 +2,10 @@
 title: "Double Majoring: Data Science + Math-CS"
 ---
 
+<b>Edit:</b> I recently dropped Math-CS as a major (and declared a math minor instead) since I really didn't want to take the classes I had remaining for the major (MATH 20E, 103A, 103B, 154). I think the advice and statements below still hold true, so I'll leave this up.
+
+------
+ 
 Over the past year or two, I've had quite a few people reaching out to me and asking questions about double majoring in Data Science & Math-CS. I thought I'd compile all of the questions I typically get here; hopefully it will be useful to those considering it. 
 
 **Why did you decide to double major?**

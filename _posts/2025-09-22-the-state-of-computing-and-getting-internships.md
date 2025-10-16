@@ -54,4 +54,4 @@ If you don’t have a return offer though, you’ll need to hit the new grad rec
 
 <b>Applying</b>
 
-When it comes to applying, apply everywhere, apply often, and apply early. Make sure to keep track of your applications and leverage referrals from peers, family friends, relatives, etc.
+When it comes to applying, apply everywhere, apply often, and apply early. Make sure to keep track of your applications and leverage referrals from peers, family friends, and relatives.
