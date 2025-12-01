@@ -9,7 +9,7 @@ I'm currently a data science intern at [Qualcomm Institute](https://qi.ucsd.edu/
 
 This past summer, I worked at Amazon as a software development engineer intern on the Alexa Communications device software team.
 
-In my free time I chase my hoop dreams, conduct freelance probability & statistics research (sports betting), watch documentaries, try making different recipes, and attempt to share novel thoughts on my [Substack](https://anishkasam.substack.com/).
+In my free time I chase my hoop dreams, watch standup comedy & documentaries, and try out different restaurants & recipes.
 
 ## Research
 
